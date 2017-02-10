@@ -5,7 +5,7 @@ public class ProblemSolver {
 	private Point B;
 	private Point C;
 	
-	public ProblemSolver(Point A, Point B, Point C, Point D) {
+	public ProblemSolver(Point A, Point B, Point C) {
 		this.A = A;
 		this.B = B;
 		this.C = C;

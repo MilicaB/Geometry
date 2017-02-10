@@ -13,7 +13,6 @@ public class App {
 		Point A = new Point();
 		Point B = new Point(1, 1, 2);
 		Point C = new Point(0, 1, 0);
-		Point D = new Point(1, 0, 1);
-		new ProblemSolver(A, B, C, D).solve(1.57);
+		new ProblemSolver(A, B, C).solve(1.57);
 	}
 }
